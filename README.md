@@ -50,13 +50,3 @@
 
 <br />
 
-
-<br />
-
-
-
-</details>
-
-
-<details>
-   <summary>:zap: Languages and Tools</summary>
