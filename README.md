@@ -24,12 +24,7 @@
 <br />
 
 
- 
- <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koesan&theme=material-palenight&hide_border=false" alt="koesan" width="55%" />
-  </a>
-</p>
+
  
 
  
