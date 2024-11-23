@@ -3,10 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/barış-kümet-626058222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="barış kümet" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="mailto:barisenesk72@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="barisenesk72@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/barış-kümet-626058222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış kümet" height="30" width="40" /></a>
 </p>
 
 
