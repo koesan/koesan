@@ -11,20 +11,7 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
- <br />
- 
-  <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=koesan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="koesan" />
-  </a>
-</p>
 
-  
-<br />
-
-
-
- 
 
  
  <br />
