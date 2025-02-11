@@ -5,10 +5,10 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-Merhaba! Ben Barış Kümet. Yazılım geliştirme serüvenim, yapay zeka ve bilgisayarlı görüyü keşfetmekle başladı. Sürekli öğrenmeye, yenilikçi çözümler üretmeye ve teknolojiyi insan odaklı projelere dönüştürmeye inanıyorum. Açık kaynak projelere katkı sağlamaktan keyif alıyor, problem çözme yeteneğimi ve yaratıcı düşünceyi her projede ortaya koyuyorum.
+Merhaba, ben Barış Kümet. Yapay zeka ve bilgisayarlı görü alanında çalışan bir yazılımcıyım. Projelerimde derin öğrenme, makine öğrenimi ve görüntü işleme tekniklerini kullanarak veri analizi, model geliştirme ve uygulama entegrasyonu konularında çalışıyorum.
 </p>
 <p align="left">
-Günlük hayatımda, kod yazmanın ötesinde; teknoloji, sanat ve topluluk etkileşimlerinin bir araya geldiği dinamik bir ekosistemin parçası olduğuma inanıyorum. Hem bireysel hem de takım halinde çalışırken, sürekli gelişimi ve paylaşımı ön planda tutuyorum.
+Endüstriyel uygulamalar ve akademik araştırmalar için Python, C++ ve Java gibi dillerle geliştirdiğim projelerim, gerçek dünya problemlerine odaklanarak pratik çözümler sunuyor. Ayrıca, açık kaynak projelere katkıda bulunarak topluluğun gelişimine destek oluyorum.
 </p>
 
 ---
