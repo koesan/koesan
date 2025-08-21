@@ -1,80 +1,149 @@
-<h1 align="center">Hi 👋, I'm Barış KÜMET</h1>
-<h3 align="center">Passionate Artificial Intelligence and Computer Vision Developer in Turkey</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Barış%20KÜMET&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
+
+<h1 align="center">
+  <a href="https://github.com/koesan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=70&lines=Bilgisayar%20Mühendisi;Yapay%20Zeka%20Geliştiricisi;Generative%20AI%20Meraklısı" alt="Typing SVG" />
+  </a>
+</h1>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=koesan&style=for-the-badge&color=00BFFF" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/koesan?style=for-the-badge&color=00BFFF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/koesan?style=for-the-badge&color=00BFFF" alt="GitHub stars" />
+</div>
 
 ---
 
-<h3 align="left">About Me:</h3>
-<p align="left">
-Hello, I'm Barış Kümet. I am a professional software developer specializing in artificial intelligence and computer vision. In my projects, I utilize deep learning, machine learning, image processing, and natural language processing techniques to conduct model training, data analysis, and application development processes.
-</p>
-<p align="left">
-The projects I have developed in languages such as Python and C++ for industrial applications and academic research focus on providing practical solutions to real-world problems. Additionally, I support the growth of the community by contributing to open-source projects.
-</p>
+## 🚀 Hakkımda
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/koesan/koesan/main/profile.gif" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;" />
+</div>
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/barış-kümet-626058222" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koesan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <i>Türkiye'den Tutkulu AI Mühendisi & Bilgisayarlı Görme Uzmanı</i>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koesan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="Trophy" />
-</p>
+
+Merhaba! Ben **Barış Kümet**, Harran Üniversitesi Bilgisayar Mühendisliği'nden yeni mezun bir yazılım geliştiricisi. **Yapay Zeka** ve **Bilgisayarlı Görü** alanlarında uzmanlaşmak için çalışıyorum. Derin öğrenme, generative AI ve görüntü işleme konularında tutkulu bir şekilde projeler geliştiriyorum.
+
+### 🔬 Temel Uzmanlık Alanlarım
+
+- **Derin Öğrenme**: CNN, RNN, Transformer'lar, GAN'lar
+- **Bilgisayarlı Görü**: Görüntü İşleme, Nesne Algılama, Segmentasyon
+- **Generative AI**: Metin ve görüntü üretimi, Style Transfer, Çeviri
+- **Doğal Dil İşleme**: Çeviri, Metin Oluşturma, Duygu Analizi
+- **Yazılım Geliştirme**: Python, C++, Kivy, Linux
+
+---
+
+## 🛠️ Teknoloji Yığınım
+
+### Programlama Dilleri
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,arduino" />
+</div>
+
+### AI/ML Çerçeveleri
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</div>
+
+### Veri Bilimi & Görselleştirme
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,seaborn,matplotlib" />
+</div>
+
+### Geliştirme Araçları
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,qt,vscode,docker" />
+</div>
+
+---
+
+## 📊 GitHub Analitiği
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=koesan&theme=radical" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 🗂️ Projelerim
+
+### Generative AI & Derin Öğrenme
+- [Manga_Comic_Colorization_and_Translation_v2](https://github.com/koesan/Manga_Comic_Colorization_and_Translation_v2) - Manga ve çizgi romanları renklendirme ve çevirme
+- [Manga_Coloring](https://github.com/koesan/Manga_Coloring) - Manga renklendirme projesi
+- [Auto_Dubbing_And_Subtitle](https://github.com/koesan/Auto_Dubbing_And_Subtitle) - Otomatik dublaj ve altyazı sistemi
+- [manga_cizgi_roman_ceviri_v1](https://github.com/koesan/manga_cizgi_roman_ceviri_v1) - Manga ve çizgi roman çeviri sistemi
+
+### Bilgisayarlı Görü & Görüntü İşleme
+- [Self_Driving_Car](https://github.com/koesan/Self_Driving_Car) - Otonom araç projesi
+- [Autonomous_Driving_With_Lane_Detection](https://github.com/koesan/Autonomous_Driving_With_Lane_Detection) - Şerit algılamalı otonom sürüş
+- [U-Net](https://github.com/koesan/U-Net) - Görüntü segmentasyonu için U-Net modeli
+- [Brain_Segmentation](https://github.com/koesan/Brain_Segmentation) - Beyin MR görüntüleri segmentasyonu
+- [DocOCR](https://github.com/koesan/DocOCR) - Belge OCR ve metin çıkarma sistemi
+
+### Yapay Zeka & Makine Öğrenimi
+- [Char_Cnn_Rnn](https://github.com/koesan/Char_Cnn_Rnn) - Karakter seviyesi CNN-RNN modeli
+- [Breast_Cancer_Classification](https://github.com/koesan/Breast_Cancer_Classification) - Meme kanseri sınıflandırması
+- [Trafik_isaretleri_Siniflandirilmasi](https://github.com/koesan/Trafik_isaretleri_Siniflandirilmasi) - Trafik işaretleri sınıflandırması
+- [NEAT](https://github.com/koesan/NEAT) - NeuroEvolution of Augmenting Topologies algoritması
+
+### Mobil & Masaüstü Uygulamalar
+- [Kivy_App](https://github.com/koesan/Kivy_App) - Kivy ile geliştirilmiş mobil uygulama
+- [Evoars](https://github.com/koesan/Evoars) - Evrimsel algoritmalar projesi
+- [Luminet](https://github.com/koesan/Luminet) - Aydınlatma kontrol sistemi
+- [VerbaLive](https://github.com/koesan/VerbaLive) - Canlı metin işleme uygulaması
+
+### Araçlar & Sistemler
+- [Arch_Dotfile](https://github.com/koesan/Arch_Dotfile) - Arch Linux yapılandırma dosyaları
+- [google_drive_yedek](https://github.com/koesan/google_drive_yedek) - Google Drive yedekleme aracı
+- [autogen](https://github.com/koesan/autogen) - Otomatik kod üretim sistemi
+- [mediapipe](https://github.com/koesan/mediapipe) - MediaPipe ile medya işleme
+- [RAG](https://github.com/koesan/RAG) - Retrieval-Augmented Generation sistemi
+
+---
+
+## 🌐 İletişim
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barış-kümet-626058222)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barisenesk72@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koesan)
+  
+</div>
+
+---
+
+## 🎯 Mevcut Çalışma Alanlarım
+
+- 🤖 **Generative AI Modelleri**
+- 🖼️ **Bilgisayarlı Görü Uygulamaları**
+- 🎨 **Yaratıcı AI ve Görüntü İşleme**
+- 📚 **Açık Kaynak Katkıları**
+- 🌱 **Sürekli Öğrenme ve Gelişim**
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <i>Projelerimi incelemek ve iş birliği yapmak için benimle iletişime geçebilirsiniz!</i>
+</div>
