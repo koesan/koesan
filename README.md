@@ -45,29 +45,42 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,arduino,js,html,css" />
 </div>
 
+---
+
 ### AI/ML Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,keras,fastai" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="40" title="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" width="40" title="Keras"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fastapi.svg" width="40" title="FastAI"/>
 </div>
 
+---
+
 ### Data Science & Visualization
-<div align="center">
-  <!-- skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
-  <!-- simpleicons -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="40"/>
+<div align="center"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matplotlib.svg" width="40" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/seaborn.svg" width="40" title="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plotly.svg" width="40" title="Plotly"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ros.svg" width="40" title="ROS"/>
 </div>
+
+---
 
 ### Development Tools & Platforms
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,qt,vscode,docker,aws,azure,github,gitlab" />
 </div>
 
+---
+
 ### Databases & Cloud
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,heroku,netlify" />
 </div>
+
 
 ---
 
