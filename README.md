@@ -8,10 +8,16 @@
   </a>
 </h1>
 
+---
+
+## 🌐 Connect
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=koesan&style=for-the-badge&color=00BFFF" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/koesan?style=for-the-badge&color=00BFFF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/koesan?style=for-the-badge&color=00BFFF" alt="GitHub stars" />
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barış-kümet-626058222)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barisenesk72@gmail.com)
+  [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/koesan)
+
 </div>
 
 ---
@@ -68,18 +74,6 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 <div align="center">
   <img width="70%" src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barış-kümet-626058222)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barisenesk72@gmail.com)
-  [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/koesan)
-
 </div>
 
 ---
