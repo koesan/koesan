@@ -59,19 +59,19 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=koesan&theme=radical" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=koesan&theme=radical" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true&row=1&column=6" />
+  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
