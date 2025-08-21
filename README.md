@@ -59,15 +59,15 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true&row=1&column=6" />
+  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -78,8 +78,8 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barış-kümet-626058222)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barisenesk72@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koesan)
-  
+  [![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/koesan)
+
 </div>
 
 ---
