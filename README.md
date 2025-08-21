@@ -63,10 +63,6 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=koesan&theme=radical" />
-</div>
-
-<div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" />
 </div>
 
