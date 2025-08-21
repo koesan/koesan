@@ -8,10 +8,6 @@
   </a>
 </h1>
 
----
-
-## 🌐 Connect
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barış-kümet-626058222)
