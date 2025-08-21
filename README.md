@@ -52,7 +52,11 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 ### Data Science & Visualization
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,seaborn,matplotlib,plotly,ros" />
+  <!-- skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+  <!-- simpleicons -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/numpy.svg" width="40"/>
 </div>
 
 ### Development Tools & Platforms
