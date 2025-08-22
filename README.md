@@ -59,15 +59,15 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 80%;" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" style="max-width: 80%;" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true&row=1&column=6" style="max-width: 90%;" />
 </div>
 
 ---
