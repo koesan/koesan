@@ -41,7 +41,7 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 ### Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,arduino,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash" />
 </div>
 
 ### AI/ML Frameworks
@@ -51,7 +51,7 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 ### Development Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,qt,docker,github,ros,flask,fastapi,mysql,raspberrypi,cmake" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,qt,flask,fastapi,mysql,ros,raspberrypi,arduino" />
 </div>
 
 ---
