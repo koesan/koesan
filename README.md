@@ -66,7 +66,7 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 <!-- Altında Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true" width="100%" />
 </p>
 
 ---
