@@ -58,20 +58,23 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="70%" />
-</p>
+<!-- Yan yana Stats ve Top Languages -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="350" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" width="350" />
+    </td>
+  </tr>
+</table>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" width="70%" />
-</p>
-
-<!-- GitHub Trophies -->
+<!-- Altında Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true" width="70%" />
 </p>
+
 
 ---
 
