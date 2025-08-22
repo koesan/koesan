@@ -31,6 +31,16 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 
 ---
 
+## 🎯 Focus Areas
+
+- 🤖 **Generative AI & Multimodal Systems**  
+- 🖼️ **Computer Vision & Image Processing**  
+- 🎨 **Creative AI Applications**  
+- 📚 **Open Source AI Projects**  
+- ⚡ **Deep Learning Research & Development**  
+
+---
+
 ## 🛠️ Technology Stack
 
 ### 💻 Programming Languages  
@@ -50,19 +60,6 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 
 ---
 
-## 📂 Featured Projects
-
-- 🚗 [**Self Driving Car**](https://github.com/koesan/Self_Driving_Car) – Autonomous driving with lane detection, obstacle recognition, and object tracking.  
-- 🤖 [**RAG (Retrieval Augmented Generation)**](https://github.com/koesan/RAG) – LLM-powered information retrieval and question answering system.  
-- 📚 [**DocOCR**](https://github.com/koesan/DocOCR) – Document OCR and text extraction pipeline.  
-- 🎨 [**Manga Comic Colorization & Translation**](https://github.com/koesan/Manga_Comic_Colorization_and_Translation_v2) – Automatic manga colorization and translation with deep learning.  
-- 🧠 [**Brain Segmentation**](https://github.com/koesan/Brain_Segmentation) – Medical image segmentation using deep learning models.  
-- 🩺 [**Breast Cancer Classification**](https://github.com/koesan/Breast_Cancer_Classification) – CNN-based medical image classification system.  
-- 🖼️ [**U-Net**](https://github.com/koesan/U-Net) – Deep learning model for image segmentation.  
-- 🎙️ [**Auto Dubbing & Subtitle**](https://github.com/koesan/Auto_Dubbing_And_Subtitle) – Automatic dubbing and subtitle generation system.  
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -73,16 +70,6 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true" width="95%" />
 </p>
-
----
-
-## 🎯 Focus Areas
-
-- 🤖 **Generative AI & Multimodal Systems**  
-- 🖼️ **Computer Vision Applications**  
-- 🎨 **Creative AI and Image Processing**  
-- 📚 **Open Source AI Projects**  
-- ⚡ **Deep Learning Research & Development**  
 
 ---
 
