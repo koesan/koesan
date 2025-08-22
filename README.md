@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/koesan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=70&lines=Computer%20Engineer;AI%20%26%20Computer%20Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Computer+Engineer;AI+%26+Computer+Vision;Deep+Learning+%7C+Generative+AI" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -16,6 +16,8 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
 
 <div align="center">
@@ -23,61 +25,66 @@
 </div>
 
 <p align="center">
-  <i>Passionate AI Engineer & Computer Vision Developer from Turkey</i>
+  <i>Computer Engineer working in Artificial Intelligence and Computer Vision</i>
 </p>
 
-Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Artificial Intelligence** and **Computer Vision**. I'm passionate about developing projects in deep learning, generative AI, and image processing.
-
-### 🔬 Work Areas
-
-- **Deep Learning**: CNN, RNN, Transformers, GANs
-- **Computer Vision**: Image Processing, Object Detection, Segmentation
-- **Generative AI**: Text and image generation, Style Transfer, Translation
-- **Natural Language Processing**: Translation, Text Generation, Sentiment Analysis
-- **Software Development**: Python, C++, Kivy, Linux
+I am a **Computer Engineer** with a strong focus on **Artificial Intelligence, Deep Learning, and Computer Vision**.  
+My work spans **Generative AI, Image Processing, and Multimodal AI systems**, where I design and implement innovative solutions using advanced deep learning architectures.
 
 ---
+
 ## 🛠️ Technology Stack
 
-### Programming Languages
+### 💻 Programming Languages  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,bash" />
 </div>
 
-### AI/ML Frameworks
+### 🤖 AI/ML Frameworks  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </div>
 
-### Development Tools & Platforms
+### ⚙️ Tools & Platforms  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,qt,flask,fastapi,mysql,ros,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,qt,flask,fastapi,ros,raspberrypi,arduino" />
 </div>
+
+---
+
+## 📂 Featured Projects
+
+- 🚗 [**Self Driving Car**](https://github.com/koesan/Self_Driving_Car) – Autonomous driving with lane detection, obstacle recognition, and object tracking.  
+- 🤖 [**RAG (Retrieval Augmented Generation)**](https://github.com/koesan/RAG) – LLM-powered information retrieval and question answering system.  
+- 📚 [**DocOCR**](https://github.com/koesan/DocOCR) – Document OCR and text extraction pipeline.  
+- 🎨 [**Manga Comic Colorization & Translation**](https://github.com/koesan/Manga_Comic_Colorization_and_Translation_v2) – Automatic manga colorization and translation with deep learning.  
+- 🧠 [**Brain Segmentation**](https://github.com/koesan/Brain_Segmentation) – Medical image segmentation using deep learning models.  
+- 🩺 [**Breast Cancer Classification**](https://github.com/koesan/Breast_Cancer_Classification) – CNN-based medical image classification system.  
+- 🖼️ [**U-Net**](https://github.com/koesan/U-Net) – Deep learning model for image segmentation.  
+- 🎙️ [**Auto Dubbing & Subtitle**](https://github.com/koesan/Auto_Dubbing_And_Subtitle) – Automatic dubbing and subtitle generation system.  
 
 ---
 
 ## 📊 GitHub Analytics
 
-<!-- Yan yana Stats ve Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="52.7%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" width="40%" />
 </p>
 
-<!-- Altında Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true" width="95%" />
 </p>
 
 ---
 
-## 🎯 Current Focus Areas
+## 🎯 Focus Areas
 
-- 🤖 **Generative AI Models**
-- 🖼️ **Computer Vision Applications**
-- 🎨 **Creative AI and Image Processing**
-- 📚 **Open Source Contributions**
-- 🌱 **Continuous Learning and Development**
+- 🤖 **Generative AI & Multimodal Systems**  
+- 🖼️ **Computer Vision Applications**  
+- 🎨 **Creative AI and Image Processing**  
+- 📚 **Open Source AI Projects**  
+- ⚡ **Deep Learning Research & Development**  
 
 ---
 
@@ -86,5 +93,5 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 </div>
 
 <div align="center">
-  <i>Feel free to explore my projects and reach out for collaborations!</i>
+  <i>✨ Always open to collaborations and new opportunities in AI & Computer Vision ✨</i>
 </div>
