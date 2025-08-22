@@ -51,7 +51,7 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 ### Development Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,qt,vscode,docker,github,ros" />
+  <img src="https://skillicons.dev/icons?i=git,linux,qt,docker,github,ros" />
 </div>
 
 ---
