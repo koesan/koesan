@@ -29,8 +29,6 @@
 I am a **Computer Engineer** with a strong focus on **Artificial Intelligence, Deep Learning, and Computer Vision**.  
 My work spans **Generative AI, Image Processing, and Multimodal AI systems**, where I design and implement innovative solutions using advanced deep learning architectures.
 
----
-
 ## 🎯 Focus Areas
 
 - 🤖 **Generative AI & Multimodal Systems**  
