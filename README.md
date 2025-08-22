@@ -41,13 +41,12 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 ### Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,arduino,js,html,css,bash,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,arduino,js,html,css,bash" />
 </div>
 
 ### AI/ML Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <!-- sklearn ve huggingface şimdilik Skillicons'da yok -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,huggingface" />
 </div>
 
 ### Development Tools & Platforms
