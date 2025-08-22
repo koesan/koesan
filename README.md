@@ -37,6 +37,8 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 - 📚 **Open Source AI Projects**  
 - ⚡ **Deep Learning Research & Development**  
 
+---
+
 ## 🛠️ Technology Stack
 
 ### 💻 Programming Languages  
@@ -53,6 +55,8 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,qt,flask,fastapi,ros,raspberrypi,arduino" />
 </div>
+
+---
 
 ## 📊 GitHub Analytics
 
