@@ -61,7 +61,7 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 <!-- Yan yana Stats ve Top Languages -->
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="300" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="300" height="280" />
   </span>
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" width="300" height="180" />
