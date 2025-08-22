@@ -46,7 +46,7 @@ Hello! I'm **Barış Kümet**, a computer engineer working in the fields of **Ar
 
 ### AI/ML Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,huggingface" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </div>
 
 ### Development Tools & Platforms
