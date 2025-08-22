@@ -37,8 +37,6 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 - 📚 **Open Source AI Projects**  
 - ⚡ **Deep Learning Research & Development**  
 
----
-
 ## 🛠️ Technology Stack
 
 ### 💻 Programming Languages  
@@ -56,8 +54,6 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,qt,flask,fastapi,ros,raspberrypi,arduino" />
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -68,8 +64,6 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true" width="95%" />
 </p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
