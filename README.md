@@ -1,5 +1,3 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=koesan.koesan)
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Barış%20KÜMET&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
@@ -60,7 +58,7 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics                                                                                                          ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=koesan.koesan)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="52.7%" />
