@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/koesan/count.svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=koesan.koesan)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Barış%20KÜMET&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
