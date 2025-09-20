@@ -66,6 +66,8 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 
 <div align="center">
 
+<br>
+
 ### 🤖 AI/ML Frameworks
 
 </div>
@@ -77,6 +79,8 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 </div>
 
 <div align="center">
+
+<br>
 
 ### ⚙️ Tools & Platforms
 
