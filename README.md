@@ -58,21 +58,15 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,bash" />
 </div>
 
 <div align="center">
 
-<br>
-
 ### 🤖 AI/ML Frameworks
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
@@ -80,13 +74,9 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 
 <div align="center">
 
-<br>
-
 ### ⚙️ Tools & Platforms
 
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,qt,flask,fastapi,ros,raspberrypi,arduino" />
