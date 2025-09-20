@@ -16,7 +16,9 @@
 
 </div>
 
+<div align="center">
 ## 🚀 About Me
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/koesan/koesan/main/profile.gif" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;" />
@@ -29,7 +31,9 @@
 I am a **Computer Engineer** with a strong focus on **Artificial Intelligence, Deep Learning, and Computer Vision**.  
 My work spans **Generative AI, Image Processing, and Multimodal AI systems**, where I design and implement innovative solutions using advanced deep learning architectures.
 
+<div align="center">
 ## 🎯 Focus Areas
+</div>
 
 - 🤖 **Generative AI & Multimodal Systems**  
 - 🖼️ **Computer Vision & Image Processing**  
@@ -38,27 +42,39 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 - ⚡ **Deep Learning Research & Development**  
 
 ---
-
+<div align="center">
 ## 🛠️ Technology Stack
+</div>
 
+<div align="center">
 ### 💻 Programming Languages  
+</div>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,bash" />
 </div>
 
-### 🤖 AI/ML Frameworks  
+<div align="center">
+### 🤖 AI/ML Frameworks
+</div>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </div>
 
-### ⚙️ Tools & Platforms  
+<div align="center">
+### ⚙️ Tools & Platforms
+</div>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,qt,flask,fastapi,ros,raspberrypi,arduino" />
 </div>
 
 ---
 
+<div align="center">
 ## 📊 GitHub Analytics                                                                                                          ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=koesan.koesan)
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="52.7%" />
