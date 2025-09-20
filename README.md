@@ -17,7 +17,9 @@
 </div>
 
 <div align="center">
+
 ## 🚀 About Me
+
 </div>
 
 <div align="center">
@@ -32,7 +34,9 @@ I am a **Computer Engineer** with a strong focus on **Artificial Intelligence, D
 My work spans **Generative AI, Image Processing, and Multimodal AI systems**, where I design and implement innovative solutions using advanced deep learning architectures.
 
 <div align="center">
+
 ## 🎯 Focus Areas
+
 </div>
 
 - 🤖 **Generative AI & Multimodal Systems**  
@@ -43,11 +47,15 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 
 ---
 <div align="center">
+
 ## 🛠️ Technology Stack
+
 </div>
 
 <div align="center">
+
 ### 💻 Programming Languages  
+
 </div>
 
 <div align="center">
@@ -55,7 +63,9 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 </div>
 
 <div align="center">
+
 ### 🤖 AI/ML Frameworks
+
 </div>
 
 <div align="center">
@@ -63,7 +73,9 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 </div>
 
 <div align="center">
+
 ### ⚙️ Tools & Platforms
+
 </div>
 
 <div align="center">
@@ -73,7 +85,9 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 ---
 
 <div align="center">
+
 ## 📊 GitHub Analytics                                                                                                          ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=koesan.koesan)
+
 </div>
 
 <p align="center">
