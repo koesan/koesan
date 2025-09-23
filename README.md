@@ -59,7 +59,7 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,bash" />
 </div>
 
 <div align="center">
