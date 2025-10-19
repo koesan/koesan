@@ -30,8 +30,8 @@
   <i>Computer Engineer working in Artificial Intelligence and Computer Vision</i>
 </p>
 
-I am a **Computer Engineer** with a strong focus on **Artificial Intelligence, Deep Learning, and Computer Vision**.  
-My work spans **Generative AI, Image Processing, and Multimodal AI systems**, where I design and implement innovative solutions using advanced deep learning architectures.
+I am a **Computer Engineer** with a strong focus on **Artificial Intelligence and Computer Vision**.  
+My work spans **Deep Learning, Generative AI, and Image Processing**, where I design and implement innovative solutions using advanced **Artificial Intelligence** architectures.
 
 <div align="center">
 
@@ -39,12 +39,10 @@ My work spans **Generative AI, Image Processing, and Multimodal AI systems**, wh
 
 </div>
 
-- 🤖 **Generative AI & Multimodal Systems**  
+- 🤖 **Deep Learning & Generative AI**  
 - 🖼️ **Computer Vision & Image Processing**  
-- 🎨 **Creative AI Applications**  
-- 📚 **Open Source AI Projects**  
-- ⚡ **Deep Learning Research & Development**  
-
+- ⚡ **AI-Powered Integrated Systems**  
+  
 ---
 <div align="center">
 
