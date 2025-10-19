@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/koesan">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Computer+Engineer;AI+%26+Computer+Vision;Deep+Learning+%7C+Generative+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Computer+Engineer;Deep+Learning+%7C+Generative+AI;Image+Processing" alt="Typing SVG" />
   </a>
 </h1>
 
