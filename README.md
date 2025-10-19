@@ -102,5 +102,5 @@ My work spans **Deep Learning, Generative AI, and Image Processing**, where I de
 </div>
 
 <div align="center">
-  <i>✨ Always open to collaborations and new opportunities in AI & Computer Vision ✨</i>
+  <i>✨ Continuously learning and building in AI & Computer Vision ✨</i>
 </div>
