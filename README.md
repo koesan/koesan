@@ -88,17 +88,20 @@ My work spans **Deep Learning, Generative AI, and Image Processing**, where I de
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="52.7%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koesan&layout=compact&theme=radical" width="40%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koesan&theme=radical&no-frame=true" width="95%" />
-</p>
+<a href="https://github.com/koesan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koesan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Koesan's Stats" />
+</a>
+
+<a href="https://github.com/koesan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koesan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Koesan's Top Languages" />
+</a>
+
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koesan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
